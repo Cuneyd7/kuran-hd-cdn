@@ -1,0 +1,54 @@
+{
+  "sayfa_no": 1,
+  "ayetler": [
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 1,
+      "besmele_var_mi": false,
+      "metin": "﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ۝١"
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 2,
+      "besmele_var_mi": false,
+      "metin": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ ۝٢"
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 3,
+      "besmele_var_mi": false,
+      "metin": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ۝٣"
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 4,
+      "besmele_var_mi": false,
+      "metin": "مَٰلِكِ يَوْمِ ٱلدِّينِ ۝٤"
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 5,
+      "besmele_var_mi": false,
+      "metin": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ۝٥"
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 6,
+      "besmele_var_mi": false,
+      "metin": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ ۝٦"
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 7,
+      "besmele_var_mi": false,
+      "metin": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ ۝٧"
+    }
+  ]
+}

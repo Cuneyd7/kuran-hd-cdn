@@ -1,0 +1,215 @@
+{
+  "sayfa_no": 582,
+  "ayetler": [
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 1,
+      "besmele_var_mi": false,
+      "metin": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ عَمَّ يَتَسَآءَلُونَ ۝١"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 2,
+      "besmele_var_mi": false,
+      "metin": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ ۝٢"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 3,
+      "besmele_var_mi": false,
+      "metin": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ ۝٣"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 4,
+      "besmele_var_mi": false,
+      "metin": "كَلَّا سَيَعْلَمُونَ ۝٤"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 5,
+      "besmele_var_mi": false,
+      "metin": "ثُمَّ كَلَّا سَيَعْلَمُونَ ۝٥"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 6,
+      "besmele_var_mi": false,
+      "metin": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًۭا ۝٦"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 7,
+      "besmele_var_mi": false,
+      "metin": "وَٱلْجِبَالَ أَوْتَادًۭا ۝٧"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 8,
+      "besmele_var_mi": false,
+      "metin": "وَخَلَقْنَٰكُمْ أَزْوَٰجًۭا ۝٨"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 9,
+      "besmele_var_mi": false,
+      "metin": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًۭا ۝٩"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 10,
+      "besmele_var_mi": false,
+      "metin": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًۭا ۝١٠"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 11,
+      "besmele_var_mi": false,
+      "metin": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًۭا ۝١١"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 12,
+      "besmele_var_mi": false,
+      "metin": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًۭا شِدَادًۭا ۝١٢"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 13,
+      "besmele_var_mi": false,
+      "metin": "وَجَعَلْنَا سِرَاجًۭا وَهَّاجًۭا ۝١٣"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 14,
+      "besmele_var_mi": false,
+      "metin": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءًۭ ثَجَّاجًۭا ۝١٤"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 15,
+      "besmele_var_mi": false,
+      "metin": "لِّنُخْرِجَ بِهِۦ حَبًّۭا وَنَبَاتًۭا ۝١٥"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 16,
+      "besmele_var_mi": false,
+      "metin": "وَجَنَّٰتٍ أَلْفَافًا ۝١٦"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 17,
+      "besmele_var_mi": false,
+      "metin": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَٰتًۭا ۝١٧"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 18,
+      "besmele_var_mi": false,
+      "metin": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًۭا ۝١٨"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 19,
+      "besmele_var_mi": false,
+      "metin": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًۭا ۝١٩"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 20,
+      "besmele_var_mi": false,
+      "metin": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا ۝٢٠"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 21,
+      "besmele_var_mi": false,
+      "metin": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًۭا ۝٢١"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 22,
+      "besmele_var_mi": false,
+      "metin": "لِّلطَّٰغِينَ مَـَٔابًۭا ۝٢٢"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 23,
+      "besmele_var_mi": false,
+      "metin": "لَّٰبِثِينَ فِيهَآ أَحْقَابًۭا ۝٢٣"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 24,
+      "besmele_var_mi": false,
+      "metin": "لَّا يَذُوقُونَ فِيهَا بَرْدًۭا وَلَا شَرَابًا ۝٢٤"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 25,
+      "besmele_var_mi": false,
+      "metin": "إِلَّا حَمِيمًۭا وَغَسَّاقًۭا ۝٢٥"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 26,
+      "besmele_var_mi": false,
+      "metin": "جَزَآءًۭ وِفَاقًا ۝٢٦"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 27,
+      "besmele_var_mi": false,
+      "metin": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًۭا ۝٢٧"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 28,
+      "besmele_var_mi": false,
+      "metin": "وَكَذَّبُوا۟ بِـَٔايَٰتِنَا كِذَّابًۭا ۝٢٨"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 29,
+      "besmele_var_mi": false,
+      "metin": "وَكُلَّ شَىْءٍ أَحْصَيْنَٰهُ كِتَٰبًۭا ۝٢٩"
+    },
+    {
+      "sure_no": 78,
+      "sure_adi": "An-Naba",
+      "ayet_no": 30,
+      "besmele_var_mi": false,
+      "metin": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا ۝٣٠"
+    }
+  ]
+}
