@@ -1,0 +1,131 @@
+{
+  "sayfa_no": 600,
+  "ayetler": [
+    {
+      "sure_no": 100,
+      "sure_adi": "Al-Aadiyaat",
+      "ayet_no": 10,
+      "metin": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ"
+    },
+    {
+      "sure_no": 100,
+      "sure_adi": "Al-Aadiyaat",
+      "ayet_no": 11,
+      "metin": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ"
+    },
+    {
+      "sure_no": 101,
+      "sure_adi": "Al-Qaari'a",
+      "ayet_no": 1,
+      "metin": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ"
+    },
+    {
+      "sure_no": 101,
+      "sure_adi": "Al-Qaari'a",
+      "ayet_no": 2,
+      "metin": "مَا ٱلْقَارِعَةُ"
+    },
+    {
+      "sure_no": 101,
+      "sure_adi": "Al-Qaari'a",
+      "ayet_no": 3,
+      "metin": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ"
+    },
+    {
+      "sure_no": 101,
+      "sure_adi": "Al-Qaari'a",
+      "ayet_no": 4,
+      "metin": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ"
+    },
+    {
+      "sure_no": 101,
+      "sure_adi": "Al-Qaari'a",
+      "ayet_no": 5,
+      "metin": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ"
+    },
+    {
+      "sure_no": 101,
+      "sure_adi": "Al-Qaari'a",
+      "ayet_no": 6,
+      "metin": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ"
+    },
+    {
+      "sure_no": 101,
+      "sure_adi": "Al-Qaari'a",
+      "ayet_no": 7,
+      "metin": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ"
+    },
+    {
+      "sure_no": 101,
+      "sure_adi": "Al-Qaari'a",
+      "ayet_no": 8,
+      "metin": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ"
+    },
+    {
+      "sure_no": 101,
+      "sure_adi": "Al-Qaari'a",
+      "ayet_no": 9,
+      "metin": "فَأُمُّهُۥ هَاوِيَةٌۭ"
+    },
+    {
+      "sure_no": 101,
+      "sure_adi": "Al-Qaari'a",
+      "ayet_no": 10,
+      "metin": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ"
+    },
+    {
+      "sure_no": 101,
+      "sure_adi": "Al-Qaari'a",
+      "ayet_no": 11,
+      "metin": "نَارٌ حَامِيَةٌۢ"
+    },
+    {
+      "sure_no": 102,
+      "sure_adi": "At-Takaathur",
+      "ayet_no": 1,
+      "metin": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ"
+    },
+    {
+      "sure_no": 102,
+      "sure_adi": "At-Takaathur",
+      "ayet_no": 2,
+      "metin": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ"
+    },
+    {
+      "sure_no": 102,
+      "sure_adi": "At-Takaathur",
+      "ayet_no": 3,
+      "metin": "كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+      "sure_no": 102,
+      "sure_adi": "At-Takaathur",
+      "ayet_no": 4,
+      "metin": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+      "sure_no": 102,
+      "sure_adi": "At-Takaathur",
+      "ayet_no": 5,
+      "metin": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ"
+    },
+    {
+      "sure_no": 102,
+      "sure_adi": "At-Takaathur",
+      "ayet_no": 6,
+      "metin": "لَتَرَوُنَّ ٱلْجَحِيمَ"
+    },
+    {
+      "sure_no": 102,
+      "sure_adi": "At-Takaathur",
+      "ayet_no": 7,
+      "metin": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ"
+    },
+    {
+      "sure_no": 102,
+      "sure_adi": "At-Takaathur",
+      "ayet_no": 8,
+      "metin": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ"
+    }
+  ]
+}
