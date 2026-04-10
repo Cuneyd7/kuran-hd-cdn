@@ -1,0 +1,47 @@
+{
+  "sayfa_no": 1,
+  "ayetler": [
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 1,
+      "meal": "Rahman (ve) rahim (olan) Allah'ın adıyla."
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 2,
+      "meal": "Hamd (övme ve övülme), alemlerin Rabbi Allah'a mahsustur."
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 3,
+      "meal": "O, rahmandır ve rahimdir."
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 4,
+      "meal": "Ceza gününün malikidir."
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 5,
+      "meal": "(Rabbimiz!) Ancak sana kulluk ederiz ve yalnız senden medet umarız."
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 6,
+      "meal": "Bize doğru yolu göster."
+    },
+    {
+      "sure_no": 1,
+      "sure_adi": "Al-Faatiha",
+      "ayet_no": 7,
+      "meal": "Kendilerine lütuf ve ikramda bulunduğun kimselerin yolunu; gazaba uğramışların ve sapmışların yolunu değil!"
+    }
+  ]
+}
